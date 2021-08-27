@@ -1,0 +1,36 @@
+const Produto = require('model/Produto.js');
+
+let preco = 899;
+Produto.update({preco}, {where:{id:1}});
+
+exercício samsung
+
+
+ng new contatos (nome da pasta)
+
+Esse comando vai criar uma pasta com o nome do projeto. Na pergunta de y/N vc digita y.
+
+Na pergunta do Stylesheet vamos selecionar CSS.
+
+Aguardar a instalação completarng new contatos 
+
+Esse comando vai criar uma pasta com o nome do projeto. Na pergunta de y/N vc digita y.
+
+Na pergunta do Stylesheet vamos selecionar CSS.
+
+Aguardar a instalação completar
+
+
+npm start antes de começar
+
+ng generate component components/Contato
+
+
+
+Como procurer pela documentação da linguagem de programação: 
+NOMEDALINGUAGEM + documentation
+Ou NOMEDALINGUAGEM + official documentation
+NOMEDALINGUAGEM + documentação oficial
+Exemplo prátic:
+Angular official documentation
+Documentação oficial do Angular
